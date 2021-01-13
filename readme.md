@@ -12,7 +12,7 @@ Use this extension for Chrome to find out the right color [ColorZilla](https://c
 
 * The width of each box is 350px (including all borders).
 * You can find the exact values of colors by using an image editor program.
-* The width of the redish border must be 1 pixel.
+* The width of the redish border must be 1 pixel and color- #e95d49.
 * The width of the bluish and yellowish borders must be 10 pixels (they, however, 
 do not have to literally be borders of any HTML container).
 * The space around the text must also be 10 pixels.
